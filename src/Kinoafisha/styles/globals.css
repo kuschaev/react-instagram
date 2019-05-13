@@ -1,7 +1,0 @@
-:root {
-    background-color: var(--paletteColor1);
-
-    & body {
-        user-select: none;
-    }
-}

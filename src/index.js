@@ -2,10 +2,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-// Theme
-import './theme/init.css';
-
 // App
-import { Kinoafisha } from './Kinoafisha';
+import { Instagram } from './Instagram';
 
-ReactDOM.render(<Kinoafisha />, document.getElementById('root'));
+ReactDOM.render(<Instagram />, document.getElementById('root'));
