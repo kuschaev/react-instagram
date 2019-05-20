@@ -1,4 +1,5 @@
 import React from 'react';
+import avatar from './assets/images/nasa.jpg';
 import './styles/init.css';
 
 export const Instagram = () => {
@@ -16,7 +17,14 @@ export const Instagram = () => {
                     <div className = 'settings' />
                 </div>
             </section>
-            <section className = 'content' />
+            <section className = 'content'>
+                <div className = 'profile'>
+                    <img
+                        className = 'avatar'
+                        src = { avatar }
+                    />
+                </div>
+            </section>
         </>
     );
 };
