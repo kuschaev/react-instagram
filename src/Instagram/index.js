@@ -5,6 +5,10 @@ export const Instagram = () => {
     return (
         <section className = 'header'>
             <div className = 'logo' />
+            <input
+                placeholder = 'Search'
+                type = 'text'
+            />
         </section>
     );
 };
