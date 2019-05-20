@@ -3,8 +3,8 @@ import './styles/init.css';
 
 export const Instagram = () => {
     return (
-        <section className = 'welcome'>
-            <h1>ПОЕХАЛИ!</h1>
+        <section className = 'header'>
+            <div className='logo'/>
         </section>
     );
 };
