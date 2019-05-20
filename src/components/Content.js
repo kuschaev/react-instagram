@@ -1,5 +1,5 @@
 import React from 'react';
-import avatar from './assets/images/nasa.jpg';
+import avatar from '../assets/images/nasa.jpg';
 
 export const Content = () => {
     return (
