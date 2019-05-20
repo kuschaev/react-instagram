@@ -4,7 +4,7 @@ import './styles/init.css';
 export const Instagram = () => {
     return (
         <section className = 'header'>
-            <div className='logo'/>
+            <div className = 'logo' />
         </section>
     );
 };
