@@ -29,6 +29,12 @@ export const Instagram = () => {
                             <div>
                                 <span>2.614</span>&nbsp;posts
                             </div>
+                            <div>
+                                <span>42.4m</span>&nbsp;followers
+                            </div>
+                            <div>
+                                <span>84</span>&nbsp;following
+                            </div>
                         </div>
                     </div>
                 </div>
