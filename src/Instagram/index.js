@@ -36,6 +36,7 @@ export const Instagram = () => {
                                 <span>84</span>&nbsp;following
                             </div>
                         </div>
+                        <span className = 'name'>NASA</span>
                     </div>
                 </div>
             </section>
