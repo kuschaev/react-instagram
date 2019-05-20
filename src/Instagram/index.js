@@ -25,6 +25,11 @@ export const Instagram = () => {
                     />
                     <div className = 'main'>
                         <span className = 'nickname'>nasa</span>
+                        <div className = 'stats'>
+                            <div>
+                                <span>2.614</span>&nbsp;posts
+                            </div>
+                        </div>
                     </div>
                 </div>
             </section>
